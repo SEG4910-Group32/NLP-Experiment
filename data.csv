@@ -1942,3 +1942,103 @@ test 1 NOV 25TH,1,11-25,test
 "Quiz 5 , AUGUST 22ND",1,08-22,quiz
 "due date: 13/3, assignment 5",1,03-13,assignment
 15/5 midterm 2,1,05-15,midterm
+ in-class exam (Thu 3/14),1,03-14,exam
+ in-class exam (Thu 5/9),1,05-09,exam
+", test 1, 15%, January 23rd",1,01-23,test
+", test 2, 20%, 3/14",1,03-14,test
+"final 35%, 5-16",1,05-16,final
+" homework 30%, 23-5",1,05-23,homework
+"Test 1: Monday, February 25, 3:30-5pm.",1,02-25,test
+"Test 2: Wednesday, March 27, 3:30-5pm.",1,03-27,test
+"Final exam: Friday, May 17, 7:00-10:00pm.",1,05-17,final
+"March 6, quiz 1",1,03-06,quiz
+"Test 1 Wed, 27 Feb 6:00 PM - 9:00 PM",1,02-27,test
+"Makeup test 1 Thurs, 28 Feb 6:00 PM - 9:00 PM",1,02-28,test
+"Test 2 Wed, 03 Apr 6:00 PM - 9:00 PM",1,04-06,test
+"Makeup test 2 Thurs, 04 Apr 6:00 PM - 9:00 PM",1,04-04,test
+"Test 3 Wed, 08 May 6:00 PM - 9:00 PM",1,05-08,test
+"Makeup test 3 Thurs, 09 May 6:00 PM - 9:00 PM",1,05-09,test
+"Final Project: 20%, September 25th",1,09-25,project
+"midterm Exam, in class Wednesday, 7/3",1,07-03,midterm
+"final Exam, Wednesday,7/31, 9 am - 12 noon",1,07-31,final
+"Midterm Exam 20% Thursday, March 12, in class",1,03-12,midterm
+"Final Exam 30% Wednesday, May 13, 7-10 PM",1,05-13,final
+"Midterm 20% Thursday, October 17 7:00-9:00pm",1,10-17,midterm
+"Final 35% Monday, December 16, 2:00-5:00pm",1,12-16,final
+"7 Nov, HW1",1,11-07,HW
+July 9 Tues Assignment #3: Group Research Presentations ,1,07-09,assignment
+Assignment # 2: Due Date: June 26th,1,06-26,assignment
+Take Home Mid-term Exam 25% 7/2,1,07-02,midterm
+6/17 M Quiz 2 – Chapter 2,1,06-17,quiz
+6/11 T Quiz 1 – Chapter 1,1,06-11,quiz
+6/20 Th Quiz 3 – Chapter 3,1,06-20,quiz
+6/25 T Quiz 4 – Chapter 4,1,06-25,quiz
+6/28 F Quiz 5 – Chapter 5,1,06-28,quiz
+7/3 W Quiz 6 – Chapter 6,1,07-03,quiz
+7/11 Th Final Exam,1,07-11,final
+M 6/24 Production Day #1 – TAKE HOME MIDTERM DUE,1,06-24,midterm
+M 7/15 TAKE HOME FINAL DUE,1,07-15,final
+Exam 1: 6/24,1,06-24,exam
+6/24 Midterm 1 6-8 PM,1,06-24,midterm
+5/14 Final Exam (optional): 9 am – 12 pm,1,05-14,final
+Exam 2 on 3/24,1,03-24,exam
+ 27‐Mar  Exam 1 First paper due,1,03-27,exam
+ 3‐May  Exam 2 Second paper due,1,05-03,exam
+First exam (U30%;G20%)– 3/9/17,1,09-03,exam
+Second exam (U30%; G20%) – 5/11/17,1,11-05,exam
+"Jan 30 Quiz 1 & Microbial Cell Structure 3, Appendix 2",1,01-30,quiz
+Feb 22 Quiz 2 & Animal viruses,1,02-22,quiz
+March 29 Quiz 3 & Adaptive Immune Response,1,03-29,quiz
+April 24 Quiz 4 & Microbial Pathogenesis,1,04-24,quiz
+8. Feb 9 Exam I (in-class),1,02-09,exam
+15. Mar. 9 Exam II (in-class),1,03-09,exam
+23. Apr 13 Exam III (in-class),1,04-13,exam
+"Final exam schedule: Friday, May 12, 9:00-12:00 noon (Location: TBA)",1,05-12,final
+"100 points Exam 1 Monday evening, February 13, 7:00-8:20 pm, in GEA or MEZ",1,02-13,exam
+"100 points Exam 2 Monday evening, March 6, 7:00-8:20 pm, in GEA or JGB",1,03-06,exam
+"100 points Exam 3 Monday evening, April 10, 7:00-8:20 pm, in GEA or JGB",1,04-10,exam
+"For MWF 9 am class, the final exam will be Thursday May 11, 2-5 pm, location TBA",1,05-11,final
+2/7 Test1,1,02-07,test
+2/9 quiz 2 Carbon compounds in cells: Proteins ,1,02-09,quiz
+2/23 quiz 3,1,02-23,quiz
+3/2 Test 2,1,03-02,test
+3/9 quiz 4 Capturing/storing energy:  Photosynthesis,1,03-09,quiz
+4/6 Test 3,1,04-06,test
+4/13 quiz 6,1,04-13,quiz
+4/27 quiz 7,1,04-27,quiz
+5/4 Test 4,1,05-04,test
+"Final exam For 9:30AM class (48060-48075) May 16, Tue. 9AM-12 noon",1,05-16,final
+"First Exam: There will be an exam worth 70 points on Monday, March 6th from 7 to 8 p.m. ",1,03-06,exam
+"Second Exam: There will be another exam worth 70 points on Monday, May 1st from 7 to 8 p.m",1,05-01,exam
+Exam I February 7 (50 points),1,02-07,exam
+Exam ll March 7 (50 points),1,03-07,exam
+FEB 9 EXAM #1 - FUNDAMENTALS OF ASTRONOMY CLA 0.102 5-6pm,1,02-09,exam
+MAR 9 EXAM #2 - STARS CLA 0.102 5-6pm,1,03-09,exam
+APR 6 EXAM #3 - PLANETS CLA 0.102 5-6pm,1,04-06,exam
+MAY 2 EXAM #4 - GALAXIES AND THE UNIVERSE CLA 0.102 5-6pm,1,05-02,exam
+May 16 OPTIONAL FINAL EXAM 9am-12pm,1,05-16,final
+Feb 28: First Mid-Term Exam (tentative date).,1,02-28,midterm
+Apr 11: Second Mid-Term Exam (tentative date).,1,04-11,midterm
+"2. Feb. 21, Probable Test 1 Date (to be confirmed)",1,02-21,test
+"3. Apr. 04, Probable Test 2 Date (to be confirmed)",1,04-04,test
+"5. May. 10, 2017, Wednesday, 7:00 – 10:00 p.m., Final Exam",1,05-10,final
+Quiz dates are: #1 Feb 16 (25 pts),1,02-16,quiz
+Quiz dates are: #2 Mar 30 (30 pts),1,03-30,quiz
+Quiz dates are: #3 May 04 (25 pts),1,05-04,quiz
+"Thursday, 3/9: MIDTERM EXAM",1,03-09,midterm
+FINAL PAPER DUE MAY 12 at 5pm,1,05-12,final
+May 5 **Final Project Due On Canvas by midnight*,1,05-05,project
+Feb 1 (Mon) Quiz 1,1,01-01,quiz
+Feb 15 (Mon) Quiz 2,1,02-15,quiz
+Feb 22 (Mon) Exam 1,1,02-22,exam
+Mar 7 (Mon) Quiz 3,1,03-07,quiz
+Mar 28 (Mon) Quiz 4,1,03-28,quiz
+Apr 4 (Mon) Exam 2,1,04-04,exam
+Apr 18 (Mon) Quiz 5,1,04-18,quiz
+May 6 (Fri) Exam 3,1,05-06,exam
+Feb 11 quiz 1,1,02-11,quiz
+Feb 25 problem set 2 due,1,02-25,assignment
+Mar 24 quiz 2,1,03-24,quiz
+Apr 07 problem set 3 due,1,04-07,assignment
+Apr 14 quiz 3,1,03-14,quiz
+Apr 28 individual project report due,1,04-28,project
